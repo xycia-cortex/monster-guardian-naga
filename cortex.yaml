@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-guardian-naga
+  x-cortex-tag: monster-guardian-naga
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: monstrosity
+    challenge_rating: 10
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-guardian-naga
+      alias: github-token-test
