@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-guardian-naga
+  x-cortex-tag: monster-guardian-naga
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: ooze
+    challenge_rating: 19
+    legendary: false
+    armor_class: 17
+    hit_points: 294
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-guardian-naga
+      alias: github-token-test
